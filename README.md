@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**JC-Aires/JC-Aires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sou o Jose Carlos Aires, engenheiro eletrônico, hoje desenvolvendo (atualmente inscrito no curso de Full Stack Python Developer, na EBAC) uma nova carreira na área da programação (I am Jose Carlos Aires, electronic engineer, now migrating to a new career path, software development (currently engaged in the EBAC Full Stack Python Developer training).
+<div align="center">
+  <br>
+  <a href="https://github.com/JC-Aires">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JC-Aires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JC-Aires&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Aires-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Aires-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Aires-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Aires-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="https://www.credly.com/badges/45a2e2f7-2eba-42ac-a682-f8946c765637/public_url" target="_blank">[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer</a>
+</div>
+  
+  ##
+ 
+<div>  
+  <a href = "mailto:jcaires63@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joseaires" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
