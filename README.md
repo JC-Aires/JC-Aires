@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-### Sou o Jose Carlos Aires, engenheiro eletrônico, hoje desenvolvendo (atualmente inscrito no curso de Full Stack Python Developer, na EBAC) uma nova carreira na área da programação.
+### Sou o Jose Carlos Aires, engenheiro eletrônico, hoje desenvolvendo uma nova carreira na área da programação (atualmente inscrito no curso de Full Stack Python Developer, na EBAC).
 
-### I am Jose Carlos Aires, electronic engineer, now migrating to a new career path, software development (currently engaged in the EBAC Full Stack Python Developer training.
+### I am Jose Carlos Aires, electronic engineer, now migrating to a new career path, software development (currently engaged in the EBAC Full Stack Python Developer training).
 <div align="center">
   <br>
   <a href="https://github.com/JC-Aires">
